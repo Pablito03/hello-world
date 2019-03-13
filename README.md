@@ -1,2 +1,3 @@
 # hello-world
 Iniciando desarrollo de software.
+Hola me interesa retomar esto de  lo dela programacion. Gracias...
